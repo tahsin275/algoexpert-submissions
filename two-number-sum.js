@@ -8,12 +8,12 @@
 //   in the array; you can't add a single integer to itself in order to obtain the
 //   target sum.
 
-// Sample Input
-// array = [3, 5, -4, 8, 11, 1, -1, 6]
-// targetSum = 10
+//  Sample Input
+//  array = [3, 5, -4, 8, 11, 1, -1, 6]
+//  targetSum = 10
 
-// Sample Output
-// [-1, 11]
+//  Sample Output
+//  [-1, 11]
 
 function twoNumberSum(array, targetSum) {
     // Write your code here.
